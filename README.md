@@ -1,31 +1,5 @@
 # Scalable Flutter App Starter
 
-👋 Hey, welcome to Scalable Flutter App.
-
-Watch/star this repo to be notified when updates are pushed.
-
-## Table of Contents
-
-<!-- TOC -->
-* [Scalable Flutter App Starter](#scalable-flutter-app-starter)
-  * [Table of Contents](#table-of-contents)
-  * [What is Scalable Flutter App?](#what-is-scalable-flutter-app)
-  * [About the Author](#about-the-author)
-* [Features](#features)
-  * [Pro Presale Discount](#pro-presale-discount)
-* [Docs](#docs)
-  * [Code Architecture](#code-architecture)
-  * [Styling](#styling)
-  * [Google Fonts](#google-fonts)
-  * [Useful GitHub Pull Request Settings](#useful-github-pull-request-settings)
-* [FAQ](#faq)
-  * [Why bloc and not X?](#why-bloc-and-not-x)
-  * [Who is Scalable Flutter App for?](#who-is-scalable-flutter-app-for)
-  * [Where to learn Flutter basics?](#where-to-learn-flutter-basics)
-  * [What if I want more?](#what-if-i-want-more)
-* [Resources](#resources)
-* [Feedback](#feedback)
-<!-- TOC -->
 
 # Docs
 
