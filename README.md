@@ -27,86 +27,6 @@ Watch/star this repo to be notified when updates are pushed.
 * [Feedback](#feedback)
 <!-- TOC -->
 
-## What is Scalable Flutter App?
-
-Scalable Flutter App is a starter template for Flutter apps.
-
-It's designed to be scalable and easy to maintain. And should save you weeks of development time.
-
-To get started, click on the green "Use this template" button on the top-right.
-
-## About the Author
-
-I'm Milos Jokic and I:
-
-- built my first mobile app in 2007
-- grew my apps to 214k users and $106,140 revenue.
-- built apps for 10 Toptal clients.
-
-And now I run a 6-figure devs agency where we launch MVPs in 4 weeks using Flutter & Firebase.
-
-You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/milos-jokic/)
-- [Twitter](https://twitter.com/miloshjokic)
-- [Newsletter](http://flutterpreneur.com/)
-
-# Features
-
-| Feature                                                              | Starter | Pro |
-|----------------------------------------------------------------------|---------|-----|
-| Platforms: Android, iOS, web                                         | ✅       | ✅   |
-| Scalable Architecture using [flutter_bloc](https://bloclibrary.dev/) | ✅       | ✅   |
-| Navigation using [go_router](https://pub.dev/packages/go_router)     | ✅       | ✅   |
-| Scalable App Styling                                                 | ✅       | ✅   |
-| GitHub Actions - code and formatting check                           | ✅       | ✅   |
-| Responsive Design                                                    | ✅       | ✅   |
-| UserMockProvider                                                     | ✅       | ✅   |
-| Profile Page                                                         | ✅       | ✅   |
-| Settings Page: sign out, app version...                              | ✅       | ✅   |
-| Legal: Terms, Policy, Data Deletion                                  | ✅       | ✅   |
-| Google Fonts                                                         | ✅       | ✅   |
-| Sign in and Sign Up Pages                                            | ✅       | ✅   |
-| Input Validators                                                     | ✅       | ✅   |
-| Cached network image                                                 | ✅       | ✅   |
-| Email Support                                                        | ❌       | ✅   |
-| Lifetime Updates                                                     | ❌       | ✅   |
-| Firebase Project Integration                                         | ❌       | ✅   |
-| Firebase Authentication                                              | ❌       | ✅   |
-| Firebase Remote Config                                               | ❌       | ✅   |
-| Firebase Crashlytics                                                 | ❌       | ✅   |
-| Firebase Firestore                                                   | ❌       | ✅   |
-| Firebase Analytics                                                   | ❌       | ✅   |
-| Firebase Storage                                                     | ❌       | ✅   |
-| Google Sign In                                                       | ❌       | ✅   |
-| Apple Sign In                                                        | ❌       | ✅   |
-| Email Link Sign In                                                   | ❌       | ✅   |
-| Common Cubits                                                        | ❌       | ✅   |
-| In App Purchases (RevenueCat)                                        | ❌       | ✅   |
-| App Store Review Request                                             | ❌       | ✅   |
-| Notifications (Firebase)                                             | ❌       | ✅   |
-| HTTP Requests                                                        | ❌       | ✅   |
-| Local Storage                                                        | ❌       | ✅   |
-| Permissions                                                          | ❌       | ✅   |
-| Environments                                                         | ❌       | ✅   |
-| Localization                                                         | ❌       | ✅   |
-| Dark Mode                                                            | ❌       | ✅   |
-| Connectivity check                                                   | ❌       | ✅   |
-| Hive - local database                                                | ❌       | ✅   |
-| MixPanel - analytics                                                 | ❌       | ✅   |
-| Android - Release Signing                                            | ❌       | ✅   |
-| Onboarding                                                           | ❌       | ✅   |
-| Forgot Password                                                      | ❌       | ✅   |
-| 🎉 BONUS: Scalable Firebase Backend Template                         | ❌       | ✅   |
-
-## Pro Presale Discount
-
-[Get Your Scalable Flutter App PRO for $47 ($200 OFF) Here](https://gradoid.lemonsqueezy.com/checkout/buy/b8fff0c2-d8ce-4af2-ac33-b675ef858c5c?checkout%5Bdiscount_code%5D=APP200)
-
-$200 off discount code (`APP200`) lasts until end of October.
-
-Scalable Flutter App - Pro launches in November.
-
 # Docs
 
 ## Code Architecture
@@ -218,10 +138,4 @@ Want me to launch your MVP in 4 weeks (premium)?
 
 Need a Flutter Expert (paid)? [Go to Flutter Devs Board](https://flutterdevsboard.com/)
 
-# Feedback
 
-Found an issue or want to request a feature? Open
-an [issue](https://github.com/Gradoid/scalable_flutter_app_starter/issues)
-
-Have a question? Ask me on [LinkedIn](https://www.linkedin.com/in/milos-jokic/)
-or [Twitter](https://twitter.com/miloshjokic).
